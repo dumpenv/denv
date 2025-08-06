@@ -64,7 +64,7 @@ uv run python main.py
 Start the FastAPI development server:
 
 ```bash
-uv run uvicorn src.main:app --reload
+uv run uvicorn main:app --reload
 ```
 
 The application will be available at:
